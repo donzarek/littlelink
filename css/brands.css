@@ -67,8 +67,8 @@ button:hover,
 .icon {
   padding: 0px 8px 3.5px 0px;
   vertical-align: middle;
-  width: 20px;
-  height: 20px;
+  width: 25px;
+  height: 25px;
 }
 
 /* Brand Styles
@@ -252,6 +252,15 @@ button:hover,
 }
 .button.button-gitlab:hover,
 .button.button-gitlab:focus {
+  filter: brightness(90%);
+}
+/* m2 */
+.button.button-gitlabm2 {
+  color: #ffffff;
+  background-color: #875575;
+}
+.button.button-gitlabm2:hover,
+.button.button-gitlabm2:focus {
   filter: brightness(90%);
 }
 
@@ -659,5 +668,251 @@ button:hover,
 }
 .button.button-hashnode:hover,
 .button.button-hashnode:focus {
+  filter: brightness(90%);
+}
+
+/* pokemone */
+
+/* dragonite */
+.button.button-dragonite {
+  color: #ffffff;
+  background-color: #30AF9D;
+}
+.button.button-dragonite:hover,
+.button.button-gitlab:focus {
+  filter: brightness(90%);
+}
+/* charizard */
+.button.button-charizard {
+  color: #ffffff;
+  background-color: #EB5F3F;
+}
+.button.button-charizard:hover,
+.button.button-charizard:focus {
+  filter: brightness(90%);
+}
+/* pikachu */
+.button.button-pikachu {
+  color: #ffffff;
+  background-color: #E19720;
+}
+.button.button-pikachu:hover,
+.button.button-pikachu:focus {
+  filter: brightness(90%);
+}
+/* charmander */
+.button.button-charmander {
+  color: #ffffff;
+  background-color: #F15F3E;
+}
+.button.button-charmander:hover,
+.button.button-charmander:focus {
+  filter: brightness(90%);
+}
+/* squirtleSquad */
+.button.button-squirtlesq {
+  color: #fffcfc;
+  background-color: #56A9ED;
+}
+.button.button-squirtlesq:hover,
+.button.button-squirtlesq:focus {
+  filter: brightness(90%);
+}
+/* totodile */
+.button.button-toto {
+  color: #fffcfc;
+  background-color: #ED4C60;
+}
+.button.button-toto:hover,
+.button.button-toto:focus {
+  filter: brightness(90%);
+}
+/* gengar */
+.button.button-gengar {
+  color: #fffcfc;
+  background-color: #280931;
+}
+.button.button-gengar:hover,
+.button.button-gengar:focus {
+  filter: brightness(90%);
+}
+/* pichu */
+.button.button-pichu {
+  color: #fffcfc;
+  background-color: #E19720;
+}
+.button.button-pichu:hover,
+.button.button-pichu:focus {
+  filter: brightness(90%);
+}
+/* larvitar */
+.button.button-larvitar {
+  color: #fffcfc;
+  background-color: #758A49;
+}
+.button.button-larvitar:hover,
+.button.button-larvitar:focus {
+  filter: brightness(90%);
+}
+/* inicial */
+.button.button-inicial {
+  color: #fffcfc;
+  background-color: #E60000;
+}
+.button.button-inicial:hover,
+.button.button-inicial:focus {
+  filter: brightness(90%);
+}
+/* mew */
+.button.button-mew {
+  color: #fffcfc;
+  background-color: #FD43B1;
+}
+.button.button-mew:hover,
+.button.button-mew:focus {
+  filter: brightness(90%);
+}
+/* quepoke */
+.button.button-quepoke {
+  color: #fffcfc;
+  background-color: #E01E19;
+}
+.button.button-quepoke:hover,
+.button.button-quepoke:focus {
+  filter: brightness(90%);
+}
+/* charmaleon */
+.button.button-charmaleon {
+  color: #fffcfc;
+  background-color: #F15F3E;
+}
+.button.button-charmaleon:hover,
+.button.button-charmaleon:focus {
+  filter: brightness(90%);
+}
+/* vamoacalmarno */
+.button.button-calmarno {
+  color: #fffcfc;
+  background-color: #56A9ED;
+}
+.button.button-calmarno:hover,
+.button.button-calmarno:focus {
+  filter: brightness(90%);
+}
+/* charmanderhead */
+.button.button-charmanderhead {
+  color: #fffcfc;
+  background-color: #F15F3E;
+}
+.button.button-charmanderhead:hover,
+.button.button-charmanderhead:focus {
+  filter: brightness(90%);
+}
+/* slowbro */
+.button.button-slowbro {
+  color: #fffcfc;
+  background-color: #EF869C;
+}
+.button.button-slowbro:hover,
+.button.button-slowbro:focus {
+  filter: brightness(90%);
+}
+/* lucario */
+.button.button-lucario {
+  color: #fffcfc;
+  background-color: #5A9ECF;
+}
+.button.button-lucario:hover,
+.button.button-lucario:focus {
+  filter: brightness(90%);
+}
+/* mrmime */
+.button.button-mrmime {
+  color: #fffcfc;
+  background-color: #B52654;
+}
+.button.button-mrmime:hover,
+.button.button-mrmime:focus {
+  filter: brightness(90%);
+}
+/* lugia */
+.button.button-lugia {
+  color: #fffcfc;
+  background-color: #050C5C;
+}
+.button.button-lugia:hover,
+.button.button-lugia:focus {
+  filter: brightness(90%);
+}
+/* metapod */
+.button.button-metapod {
+  color: #fffcfc;
+  background-color: #126D38;
+}
+.button.button-metapod:hover,
+.button.button-metapod:focus {
+  filter: brightness(90%);
+}
+/* gyarados */
+.button.button-gyarados {
+  color: #fffcfc;
+  background-color: #007AA9;
+}
+.button.button-gyarados:hover,
+.button.button-gyarados:focus {
+  filter: brightness(90%);
+}
+/* slowpoke */
+.button.button-slowpoke {
+  color: #fffcfc;
+  background-color: #EF869C;
+}
+.button.button-slowpoke:hover,
+.button.button-slowpoke:focus {
+  filter: brightness(90%);
+}
+/* greninja */
+.button.button-greninja {
+  color: #fffcfc;
+  background-color: #002250;
+}
+.button.button-greninja:hover,
+.button.button-greninja:focus {
+  filter: brightness(90%);
+}
+/* bulbasaur */
+.button.button-bulbasaur {
+  color: #fffcfc;
+  background-color: #228552;
+}
+.button.button-bulbasaur:hover,
+.button.button-bulbasaur:focus {
+  filter: brightness(90%);
+}
+/* psyduck */
+.button.button-psyduck {
+  color: #fffcfc;
+  background-color: #00B3DF;
+}
+.button.button-psyduck:hover,
+.button.button-psyduck:focus {
+  filter: brightness(90%);
+}
+/* blaziken */
+.button.button-blaziken {
+  color: #fffcfc;
+  background-color: #F15F3E;
+}
+.button.button-blaziken:hover,
+.button.button-blaziken:focus {
+  filter: brightness(90%);
+}
+/* alakazam */
+.button.button-alakazam {
+  color: #fffcfc;
+  background-color: #4E3A2F;
+}
+.button.button-alakazam:hover,
+.button.button-alakazam:focus {
   filter: brightness(90%);
 }
