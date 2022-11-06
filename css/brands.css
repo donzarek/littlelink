@@ -901,7 +901,7 @@ button:hover,
 /* blaziken */
 .button.button-blaziken {
   color: #fffcfc;
-  background-color: #F15F3E;
+  background-color: #8B2C34;
 }
 .button.button-blaziken:hover,
 .button.button-blaziken:focus {
@@ -914,5 +914,230 @@ button:hover,
 }
 .button.button-alakazam:hover,
 .button.button-alakazam:focus {
+  filter: brightness(90%);
+}
+/* Raichu */
+.button.button-raichu {
+  color: #fffcfc;
+  background-color: #C48A49;
+}
+.button.button-raichu:hover,
+.button.button-raichu:focus {
+  filter: brightness(90%);
+}
+/* miltank */
+.button.button-miltank {
+  color: #201f1f;
+  background-color: #FFF597;
+}
+.button.button-miltank:hover,
+.button.button-miltank:focus {
+  filter: brightness(90%);
+}
+/* cubone */
+.button.button-cubone {
+  color: #fffcfc;
+  background-color: #4E3A2F;
+}
+.button.button-cubone:hover,
+.button.button-cubone:focus {
+  filter: brightness(90%);
+}
+/* charizardshiny */
+.button.button-charizardshiny {
+  color: #fffcfc;
+  background-color: #3F3F3F;
+}
+.button.button-charizardshiny:hover,
+.button.button-charizardshiny:focus {
+  filter: brightness(90%);
+}
+/* scorbunny */
+.button.button-scorbunny {
+  color: #201f1f;
+  background-color: #EABA56;
+}
+.button.button-scorbunnyrhover,
+.button.button-scorbunny:focus {
+  filter: brightness(90%);
+}
+/* machoke */
+.button.button-machoke {
+  color: #fffcfc;
+  background-color: #697895;
+}
+.button.button-machoke:hover,
+.button.button-machoke:focus {
+  filter: brightness(90%);
+}
+/* heracross */
+.button.button-heracross {
+  color: #fffcfc;
+  background-color: #1B2537;
+}
+.button.button-heracross:hover,
+.button.button-heracross:focus {
+  filter: brightness(90%);
+}
+/* garchomp */
+.button.button-garchomp {
+  color: #fffcfc;
+  background-color: #D94D2F;
+}
+.button.button-garchomp:hover,
+.button.button-garchomp:focus {
+  filter: brightness(90%);
+}
+/* hitmonchan */
+.button.button-hitmonchan {
+  color: #fffcfc;
+  background-color: #988874;
+}
+.button.button-hitmonchan:hover,
+.button.button-hitmonchan:focus {
+  filter: brightness(90%);
+}
+/* blastoise */
+.button.button-blastoise {
+  color: #fffcfc;
+  background-color: #2966ab;
+}
+.button.button-blastoise:hover,
+.button.button-blastoise:focus {
+  filter: brightness(90%);
+}
+/* riolu */
+.button.button-riolu {
+  color: #fffcfc;
+  background-color: #5A9ECF;
+}
+.button.button-riolu:hover,
+.button.button-riolu:focus {
+  filter: brightness(90%);
+}
+/* tyranitar */
+.button.button-tyranitar {
+  color: #fffcfc;
+  background-color: #94B457;
+}
+.button.button-tyranitar:hover,
+.button.button-tyranitar:focus {
+  filter: brightness(90%);
+}
+/* gloom */
+.button.button-gloom {
+  color: #fffcfc;
+  background-color: #5C7292;
+}
+.button.button-gloom:hover,
+.button.button-gloom:focus {
+  filter: brightness(90%);
+}
+/* sudo */
+.button.button-sudo {
+  color: #fffcfc;
+  background-color: #89CE68;
+}
+.button.button-sudo:hover,
+.button.button-sudo:focus {
+  filter: brightness(90%);
+}
+/* ash */
+.button.button-ash {
+  color: #fffcfc;
+  background-color: #DE2600;
+}
+.button.button-ash:hover,
+.button.button-ash:focus {
+  filter: brightness(90%);
+}
+/* pikachuh */
+.button.button-pikachuh {
+  color: #fffcfc;
+  background-color: #E19720;
+}
+.button.button-pikachuh:hover,
+.button.button-pikachuh:focus {
+  filter: brightness(90%);
+}
+/* koffing */
+.button.button-koffing {
+  color: #fffcfc;
+  background-color: #A287BA;
+}
+.button.button-koffing:hover,
+.button.button-koffing:focus {
+  filter: brightness(90%);
+}
+/* sands */
+.button.button-sands {
+  color: #fffcfc;
+  background-color: #E1C699;
+}
+.button.button-sands:hover,
+.button.button-sands:focus {
+  filter: brightness(90%);
+}
+/* mudkip */
+.button.button-mudkip {
+  color: #fffcfc;
+  background-color: #347A9D;
+}
+.button.button-mudkip:hover,
+.button.button-mudkip:focus {
+  filter: brightness(90%);
+}
+/* aggron */
+.button.button-aggron {
+  color: #fffcfc;
+  background-color: #303438;
+}
+.button.button-aggron:hover,
+.button.button-aggron:focus {
+  filter: brightness(90%);
+}
+/* woolo */
+.button.button-woolo {
+  color: #fffcfc;
+  background-color: #CF9774;
+}
+.button.button-woolo:hover,
+.button.button-woolo:focus {
+  filter: brightness(90%);
+}
+/* haunter */
+.button.button-haunter {
+  color: #fffcfc;
+  background-color: #663E52;
+}
+.button.button-haunter:hover,
+.button.button-haunter:focus {
+  filter: brightness(90%);
+}
+/* electabuzz */
+.button.button-electabuzz {
+  color: #fffcfc;
+  background-color: #FCE587;
+}
+.button.button-electabuzz:hover,
+.button.button-electabuzz:focus {
+  filter: brightness(90%);
+}
+/* toxicitry */
+.button.button-toxi {
+  color: #fffcfc;
+  background-color: #2B0149;
+}
+.button.button-toxici:hover,
+.button.button-toxici:focus {
+  filter: brightness(90%);
+}
+/* farfe */
+.button.button-a {
+  color: #fffcfc;
+  background-color: #D17C2F;
+}
+.button.button-a:hover,
+.button.button-a:focus {
   filter: brightness(90%);
 }
