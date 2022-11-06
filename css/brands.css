@@ -70,6 +70,12 @@ button:hover,
   width: 25px;
   height: 25px;
 }
+.iconT {
+  padding: 0px 8px 3.5px 0px;
+  vertical-align: middle;
+  width: 45px;
+  height: 45px;
+}
 
 /* Brand Styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -1116,7 +1122,7 @@ button:hover,
 }
 /* electabuzz */
 .button.button-electabuzz {
-  color: #fffcfc;
+  color: #201f1f;
   background-color: #FCE587;
 }
 .button.button-electabuzz:hover,
@@ -1127,6 +1133,7 @@ button:hover,
 .button.button-toxi {
   color: #fffcfc;
   background-color: #2B0149;
+
 }
 .button.button-toxici:hover,
 .button.button-toxici:focus {
@@ -1139,5 +1146,14 @@ button:hover,
 }
 .button.button-a:hover,
 .button.button-a:focus {
+  filter: brightness(90%);
+}
+/* m2s */
+.button.button-m2s {
+  color: #fffcfc;
+  background-color: #26C141;
+}
+.button.button-m2s:hover,
+.button.button-m2s:focus {
   filter: brightness(90%);
 }
