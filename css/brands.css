@@ -1141,8 +1141,8 @@ button:hover,
   background-color: #2B0149;
 
 }
-.button.button-toxici:hover,
-.button.button-toxici:focus {
+.button.button-toxi:hover,
+.button.button-toxi:focus {
   filter: brightness(90%);
 }
 /* farfe */
