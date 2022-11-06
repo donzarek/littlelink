@@ -76,6 +76,12 @@ button:hover,
   width: 45px;
   height: 45px;
 }
+.iconW {
+  padding: 0px 8px 3.5px 0px;
+  vertical-align: middle;
+  width: 65px;
+  height: 65px;
+}
 
 /* Brand Styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
