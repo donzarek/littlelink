@@ -95,8 +95,21 @@ body {
   font-weight: 400;
   font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial,
     sans-serif;
+    min-height: 100vh;
+    background:#0c192c;
 }
-
+.bubbles{
+  position:relative;
+  display:flex;
+  z-index: 100;
+}
+.bubbles span{
+  position: relative;
+  width: 30px;
+  height: 30px;
+  background: #4fc3dc;
+  margin: 0 4px;
+}
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 h1 {
