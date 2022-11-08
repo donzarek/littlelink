@@ -270,6 +270,9 @@ button:hover,
 .button.button-gitlabm2 {
   color: #ffffff;
   background-color: #875575;
+
+  animation:shake 5s cubic-bezier(.36, .07, .19, .97) infinite;
+  animation-delay:3s;
 }
 .button.button-gitlabm2:hover,
 .button.button-gitlabm2:focus {
@@ -689,6 +692,33 @@ button:hover,
 .button.button-dragonite {
   color: #ffffff;
   background-color: #30AF9D;
+  animation:
+  shake 5s cubic-bezier(.36, .07, .19, .97) infinite;
+  transform: translate3d(0, 0, 0);
+  backface-visibility: hidden;
+  perspective: 1000px;
+}
+
+
+@keyframes shake {
+  2%,
+  16% {
+    transform: translate3d(-1px, 0, 0);
+  }
+  4%,
+  16% {
+    transform: translate3d(2px, 0, 0);
+  }
+  6%,
+  10%,
+  14% {
+    transform: translate3d(-4px, 0, 0);
+  }
+  8%,
+  12% {
+    transform: translate3d(4px, 0, 0);
+  }
+
 }
 .button.button-dragonite:hover,
 .button.button-gitlab:focus {
@@ -725,6 +755,9 @@ button:hover,
 .button.button-squirtlesq {
   color: #fffcfc;
   background-color: #56A9ED;
+  animation:shake 5s cubic-bezier(.36, .07, .19, .97) infinite;
+  animation-delay:2s;
+  
 }
 .button.button-squirtlesq:hover,
 .button.button-squirtlesq:focus {
@@ -770,6 +803,8 @@ button:hover,
 .button.button-inicial {
   color: #fffcfc;
   background-color: #E60000;
+  animation:shake 5s cubic-bezier(.36, .07, .19, .97) infinite;
+  animation-delay:4.5s;
 }
 .button.button-inicial:hover,
 .button.button-inicial:focus {
@@ -833,6 +868,8 @@ button:hover,
 .button.button-lucario {
   color: #fffcfc;
   background-color: #5A9ECF;
+  animation:shake 5s cubic-bezier(.36, .07, .19, .97) infinite;
+  animation-delay:5s;
 }
 .button.button-lucario:hover,
 .button.button-lucario:focus {
@@ -869,6 +906,8 @@ button:hover,
 .button.button-gyarados {
   color: #fffcfc;
   background-color: #007AA9;
+  animation:shake 5s cubic-bezier(.36, .07, .19, .97) infinite;
+  animation-delay:5.5s;
 }
 .button.button-gyarados:hover,
 .button.button-gyarados:focus {
@@ -959,6 +998,8 @@ button:hover,
 .button.button-charizardshiny {
   color: #fffcfc;
   background-color: #3F3F3F;
+  animation:shake 5s cubic-bezier(.36, .07, .19, .97) infinite;
+  animation-delay:7.6s;
 }
 .button.button-charizardshiny:hover,
 .button.button-charizardshiny:focus {
@@ -1031,6 +1072,8 @@ button:hover,
 .button.button-tyranitar {
   color: #fffcfc;
   background-color: #94B457;
+  animation:shake 5s cubic-bezier(.36, .07, .19, .97) infinite;
+  animation-delay:8.3s;
 }
 .button.button-tyranitar:hover,
 .button.button-tyranitar:focus {
@@ -1094,6 +1137,8 @@ button:hover,
 .button.button-mudkip {
   color: #fffcfc;
   background-color: #347A9D;
+  animation:shake 5s cubic-bezier(.36, .07, .19, .97) infinite;
+  animation-delay:9s;
 }
 .button.button-mudkip:hover,
 .button.button-mudkip:focus {
@@ -1158,6 +1203,8 @@ button:hover,
 .button.button-m2s {
   color: #fffcfc;
   background-color: #26C141;
+  animation:shake 5s cubic-bezier(.36, .07, .19, .97) infinite;
+  animation-delay:6.6s;
 }
 .button.button-m2s:hover,
 .button.button-m2s:focus {
