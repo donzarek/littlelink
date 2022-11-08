@@ -728,6 +728,8 @@ button:hover,
 .button.button-charizard {
   color: #ffffff;
   background-color: #EB5F3F;
+  animation:shake 5s cubic-bezier(.36, .07, .19, .97) infinite;
+  animation-delay:1.2s;
 }
 .button.button-charizard:hover,
 .button.button-charizard:focus {
